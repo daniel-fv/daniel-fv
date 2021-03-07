@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a Cloud Architect experienced with Linux systems and networking administration.
+I’m a Cloud Architect with 15 years of experience as a sysadmin in Linux and network administration.
 
-I specialize in Microsoft Azure and I’m certified as Azure Solutions Architect Expert and Azure Administrator Associate. 
+I specialize in Microsoft Azure and I’m certified as Azure Solutions Architect Expert and Azure Administrator Associate. I work as Cloud Solutions Manager at Condor Comunicaciones / Nova Cloud.
 
 I love working on projects together, so feel free to reach out for collaboration!
 
@@ -31,6 +31,7 @@ I love working on projects together, so feel free to reach out for collaboration
 [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter)](https://www.twitter.com/dfv78)
 
 📫 dfv78@msn.com
+
 
 
 ### 📈 Stats 
