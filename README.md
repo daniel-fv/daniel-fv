@@ -29,5 +29,5 @@ The purpose of this blog is to share information about my journey with cloud com
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-fv&count_private=true)
 
-![Daniel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-fv&layout=compact&theme=default&show_icons=true)
+![Daniel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-fv&layout=compact&theme=default&show_icons=true&langs_count=10)
 
