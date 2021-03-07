@@ -1,4 +1,5 @@
 ### Hi there 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=daniel-fv.daniel-fv)
 
 <!--
 **daniel-fv/daniel-fv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,10 +27,6 @@ I specialize in Microsoft Azure and I’m certified as Azure Solutions Architect
 
 
 ### 📈 Stats 
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=daniel-fv.daniel-fv)
-
 
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-fv&count_private=true)
 
