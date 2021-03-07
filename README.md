@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 I’m a Cloud Architect experienced with Linux systems and networking administration.
 
-I specialize in Microsoft Azure and I’m certified as Azure Solutions Architect Expert and Azure Administrator Associate. I love working on projects together, so feel free to reach out for collaboration!
+I specialize in Microsoft Azure and I’m certified as Azure Solutions Architect Expert and Azure Administrator Associate. 
+
+I love working on projects together, so feel free to reach out for collaboration!
 
 ### How to reach me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielfajardovalenti)
