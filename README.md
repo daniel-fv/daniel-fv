@@ -20,8 +20,12 @@ I specialize in Microsoft Azure and I’m certified as Azure Solutions Architect
 
 The purpose of this blog is to share information about my journey with cloud computing and specially documenting my pesonal experience using Azure.
 
+
+### 📈 Stats 
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=daniel-fv.daniel-fv)
 
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-fv)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-fv&layout=compact&theme=buefy&show_icons=true&count_private=true)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-fv&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-fv&layout=compact&theme=default&show_icons=true)
 
