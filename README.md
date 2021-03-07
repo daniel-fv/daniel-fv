@@ -21,6 +21,11 @@ I specialize in Microsoft Azure and I’m certified as Azure Solutions Architect
 
 I love working on projects together, so feel free to reach out for collaboration!
 
+- 🔭 I’m currently working on all things Azure 
+- 🌱 I’m currently learning DevOps, Go and automation using Python, PowerShell and Terraform
+- 💬 Ask me about Cloud Engineering
+
+
 ### How to reach me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielfajardovalenti)
 [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter)](https://www.twitter.com/dfv78)
