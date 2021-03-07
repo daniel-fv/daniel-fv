@@ -23,6 +23,6 @@ The purpose of this blog is to share information about my journey with cloud com
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=daniel-fv.daniel-fv)
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-fv)](https://github.com/anuraghazra/github-readme-stats)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-fv)]
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-fv&layout=compact&theme=highcontrast&show_icons=true)
 
- 
