@@ -20,8 +20,7 @@ I specialize in Microsoft Azure and I’m certified as Azure Solutions Architect
 
 ### How to reach me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielfajardovalenti)
-[![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/dfv78)
-
+[![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter)](https://www.twitter.com/dfv78)
 📫 dfv78@msn.com
 
 
