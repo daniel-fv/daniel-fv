@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 I’m a Cloud Architect with 15 years of experience as a sysadmin in Linux and network administration.
 
-I specialize in Microsoft Azure and I’m certified as Azure Solutions Architect Expert and Azure Administrator Associate. I work as Cloud Solutions Manager at Condor Comunicaciones / Nova Cloud.
+I specialize in Microsoft Azure and I’m certified as Azure Solutions Architect Expert and Azure Administrator Associate. 💻 I'm a Cloud Solutions Manager at Condor Comunicaciones / Nova Cloud.
 
 I love working on projects together, so feel free to reach out for collaboration!
 
 - 🔭 I’m currently working on all things Azure 
 - 🌱 I’m currently learning DevOps, Go and automation using Python, PowerShell and Terraform
 - 💬 Ask me about Cloud Engineering
+
 
 
 ### How to reach me
