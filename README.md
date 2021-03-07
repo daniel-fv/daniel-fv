@@ -29,7 +29,7 @@ I love working on projects together, so feel free to reach out for collaboration
 
 ### How to reach me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielfajardovalenti)
-[![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter)](https://www.twitter.com/dfv78)
+<!-- [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter)](https://www.twitter.com/dfv78) -->
 
 📫 dfv78@msn.com
 
