@@ -21,4 +21,5 @@ I specialize in Microsoft Azure and I’m certified as Azure Solutions Architect
 
 The purpose of this blog is to share information about my journey with cloud computing and specially documenting my pesonal experience using Azure.
 
-![visitors](https://visitor-badge.glitch.me/badge?daniel-fv=daniel-fv)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=daniel-fv.daniel-fv)
+ 
