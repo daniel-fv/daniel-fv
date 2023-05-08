@@ -1,5 +1,4 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=daniel-fv.daniel-fv)
 
 <!--
 **daniel-fv/daniel-fv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +21,7 @@ I specialize in Microsoft Azure and I’m certified as Azure Solutions Architect
 I love working on projects together, so feel free to reach out for collaboration!
 
 - 🔭 I’m currently working on all things Azure 
-- 🌱 I’m currently learning DevOps, Web3, Python, PowerShell and Terraform
+- 🌱 I’m currently learning C#, DevOps, Web3, PowerShell and Terraform
 - 💬 Ask me about Cloud Computing
 
 
